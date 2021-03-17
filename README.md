@@ -3,7 +3,7 @@
 
 ## This repository contains a jupyter notebook that builds out a classic card game of war using python and object oriented programming. 
 
-## Game Play Overview:
+## Game Play Overview
 
 The game begins with a 52 card deck, shuffled and divided between two players. Without viewing cards, the players battle one card at a time - highest card wins.
 
